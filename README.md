@@ -20,7 +20,7 @@
 
 <div align="center" dir="auto">
   <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
-    <img src="https://github-languages-card.vercel.app/api/top-languages?username=HamiParsa&theme=darkNeon" width="800" alt="GitHub Languages Card" />
+    <img src="https://github-languages-card.vercel.app/api/top-languages?username=HamiParsa&theme=golden" width="800" alt="GitHub Languages Card" />
   </a>
   <br/><br/>
   <blockquote dir="rtl">
