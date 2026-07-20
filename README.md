@@ -37,29 +37,7 @@
   </a>
   
   <br/><br/>
-  
-  ### 🚀 از سازنده حمایت کنید
-  
-  <blockquote dir="rtl">
-    اگر این ابزار را مفید دیدید، لطفاً <b>به آن ستاره ⭐ بدهید</b> و <b>دنبال کنید</b> — <b>ویدا خوشپی (vidatwin)</b>
-  </blockquote>
-  
-  <br/>
-  
-  <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
-    <img src="https://img.shields.io/badge/View_Repository-FF6B35?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/VIDAKHOSHPEY22">
-    <img src="https://img.shields.io/badge/GitHub_Creator-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <br/><br/>
-  
-  ✨ **یک ستاره ساده یعنی خیلی چیزها! امروز حمایت خود را نشان دهید** ✨
-  
-  <br/>
-  
-  
+
 </div>
 
 ---
