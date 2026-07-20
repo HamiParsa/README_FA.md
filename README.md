@@ -1,4 +1,4 @@
-<div align="center" dir="auto"> 
+<div align="center" dir="auto" id="top"> 
   <img src="https://img.shields.io/github/stars/HamiParsa?style=for-the-badge&logo=github&label=Total%20Stars&color=181717" /> 
   <img src="https://img.shields.io/github/followers/HamiParsa?style=for-the-badge&logo=github&label=Followers&color=251D3A" /> 
   <img src="https://komarev.com/ghpvc/?username=HamiParsa&color=181717&style=for-the-badge&label=TOTAL%20VIEWS" />
@@ -391,3 +391,8 @@
 </picture>
 
 </div>
+
+<br><br>
+<a href="#top">
+  <img src="https://img.shields.io/badge/Back_To_Top-1a1a2e?style=for-the-badge&logo=rocket&logoColor=white&color=0d0d1a" />
+</a>
