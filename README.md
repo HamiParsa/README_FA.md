@@ -335,7 +335,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/🟢-Available_for_Work-181717?style=for-the-badge&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/💬-Open_to_Collaboration-251D3A?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/💬-Open_to_Collaboration-FFC81E?style=for-the-badge&labelColor=0A0A0A" />
 <img src="https://img.shields.io/badge/⚡-Reply_in_Seconds-181717?style=for-the-badge&labelColor=0A0A0A" />
 
 <br/><br/>
