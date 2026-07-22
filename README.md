@@ -320,7 +320,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A"/>
 </a>
 <a href="https://t.me/HamiParsa">
-  <img src="https://img.shields.io/badge/Telegram-251D3A?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/Telegram-FFC81E?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0A0A0A"/>
 </a>
 <a href="https://www.linkedin.com/in/HamiParsa">
   <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A"/>
