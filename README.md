@@ -243,7 +243,7 @@
 | 🍿 **netflix-clone** | Next.js 15, TypeScript, Node.js, JWT | [📁 مخزن](https://github.com/HamiParsa/netflix-clone) |
 | 🍕 **FoodRush** | Next.js 14, Supabase, Zustand, OAuth | [📁 مخزن](https://github.com/HamiParsa/FoodRush) |
 | 🕹️ **Game-Hub** | React, TypeScript, Tailwind, RAWG API | [🔮 نسخه‌ی زنده](https://game-hub0.netlify.app/) |
-| 🎬 **Movie Explorer** | Next.js, Framer Motion, TMDB API | [🔮 نسخه‌ی زنده](https://imaginative-granita-28d88b.netlify.app/) |
+| 🎬 **Movie Explorer** | Next.js, Framer Motion, TMDB API | [🔮 نسخه‌ی زنده](https://hamiparsa.github.io/Movie/) |
 
 <br/>
 
