@@ -7,6 +7,7 @@
   
   [![Open Source - GitHub Developer](https://img.shields.io/badge/Open_Source-GitHub_Developer-FFC81E?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en/integrations/concepts/github-developer-program)
   <br>
+  <br>
   [![Translate to English](https://img.shields.io/badge/Translate_to_English-0055DA?style=for-the-badge&logo=google-translate&logoColor=white)](https://github.com/HamiParsa/HamiParsa)
 
 </div>
