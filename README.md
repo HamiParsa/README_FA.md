@@ -73,7 +73,6 @@
     <b>HamiParsa</b> — یکی از فعال‌ترین توسعه‌دهندگان در جامعه‌ی گیت‌هاب ایران
   </blockquote>
   <br/>
-  
 ### 🌟 رتبه‌بندی ملی
   
   <a href="https://user-badge.committers.top/iran/HamiParsa">
