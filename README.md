@@ -58,7 +58,7 @@
   <br/>
   <sub dir="rtl"><b>🎯 مطالعه‌های موردی و کارهای خلاقانه</b></sub>
   
-  <br/><br/>
+<br/><br/>
   
   <div style="background: linear-gradient(90deg, #0EA5E9, #10B981); padding: 6px 20px; border-radius: 20px; display: inline-block;">
     ✨ <b>هر دو سایت را ببینید تا ببینید چه چیزهایی ساخته‌ام!</b>
