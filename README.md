@@ -27,7 +27,7 @@
     <b>هر پروفایل گیت‌هابی را به یک کارت تحلیلی تمیز و قابل اشتراک‌گذاری از زبان‌ها تبدیل می‌کند.</b>
     <br/>
     ساخته شده برای README پروفایل‌ها، نمونه‌کارها و نمایش توانمندی‌های توسعه‌دهندگان.
-  </blockquote>
+</blockquote>
   <br/>
   <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
     <img src="https://img.shields.io/github/stars/VIDAKHOSHPEY22/github-languages-card?style=for-the-badge&color=6D28D9&logo=github&logoColor=white" />
