@@ -49,7 +49,7 @@
   <i>سفر، مهارت‌ها و پروژه‌های خلاقانه‌ام را کاوش کنید</i>
   <br/><br/>
   
-  <a href="https://hamiparsa.github.io/About-Me/">
+<a href="https://hamiparsa.github.io/About-Me/">
     <img src="https://img.shields.io/badge/About_Me-181717?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   
