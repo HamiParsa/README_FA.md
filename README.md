@@ -56,8 +56,7 @@
     <img src="https://img.shields.io/badge/Projects_Portfolio-FFC81E?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <br/>
-  
-<sub dir="rtl"><b>🎯 مطالعه‌های موردی و کارهای خلاقانه</b></sub>
+  <sub dir="rtl"><b>🎯 مطالعه‌های موردی و کارهای خلاقانه</b></sub>
   
   <br/><br/>
   
