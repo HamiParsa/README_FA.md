@@ -74,7 +74,7 @@
   </blockquote>
   <br/>
   
-  ### 🌟 رتبه‌بندی ملی
+### 🌟 رتبه‌بندی ملی
   
   <a href="https://user-badge.committers.top/iran/HamiParsa">
     <img src="https://user-badge.committers.top/iran/HamiParsa.svg" />
