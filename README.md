@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/About_Me-181717?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   
-  <br/>
+<br/>
   
   <sub dir="rtl"><b>📖 سفر، مهارت‌ها و علاقه‌مندی‌های من</b></sub>
   
