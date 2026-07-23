@@ -43,7 +43,6 @@
 <div align="center" dir="auto">
 
 ## 🌐 وب‌سایت‌های شخصی
-
 <div align="center" dir="auto">
   
   <i>سفر، مهارت‌ها و پروژه‌های خلاقانه‌ام را کاوش کنید</i>
