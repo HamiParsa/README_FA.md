@@ -348,7 +348,6 @@
 ## 💰 حمایت مالی
 
 <br/>
-
 <table align="center" style="border: 1px solid #00FF00;" dir="rtl">
 <tr>
 <td align="center">💳 <b>بانک</b></td>
