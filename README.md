@@ -367,7 +367,6 @@
 <td><code>TBC28jbxtBGytLQdVZjJmf73ULJunvTghT</code></td>
 </tr>
 </table>
-
 <br/>
 
 > **☕ هر قهوه = یک کامیت دیگر**
