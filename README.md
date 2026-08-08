@@ -109,7 +109,7 @@
   
   ✨ **حمایت خود را با یک ⭐ ستاره یا 👥 دنبال کردن نشان دهید!** ✨
     
-  <img src="/poster.png" />
+  <img src="/poster-hami.png" />
   
 </div>
 
