@@ -248,7 +248,7 @@
 | 🚗 Tesla Configurator | [🔮 نسخه‌ی زنده](https://hamiparsa.github.io/Tesla/) |
 | ▶️ YouTube Clone | [🔮 نسخه‌ی زنده](https://lighthearted-tarsier-75bef8.netlify.app/) |
 | 👑 Sexy Arena | [🔮 نسخه‌ی زنده](https://hamiparsa.github.io/Sexy-Arena/) |
-| 🎮 Game Zone | [🔮 نسخه‌ی زنده](https://stellular-salamander-2f94ef.netlify.app/) |
+| 🎮 Game Zone | [🔮 نسخه‌ی زنده](https://hamiparsa.github.io/Game-Zone/) |
 | 🗽 NewYork | [🔮 نسخه‌ی زنده](https://hamiparsa.github.io/NewYork/) |
 | ☀️ Los Angeles | [🔮 نسخه‌ی زنده](https://hamiparsa.github.io/Los-Angeles/) |
 | 🍔 Menu Fast Food | [🔮 نسخه‌ی زنده](https://hamiparsa.github.io/Menu-Fast-Food/) |
