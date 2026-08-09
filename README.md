@@ -44,9 +44,7 @@
 
 ## 🌐 وب‌سایت‌های شخصی
 
-<a href="https://www.coffeete.ir/Hami_Parsa" target="_blank" aria-label="Support link">
-  <img src="/coffee.png" alt="Donate with coffee" width="500">
-</a>
+
 
 <div align="center" dir="auto">
   <i>سفر، مهارت‌ها و پروژه‌های خلاقانه‌ام را کاوش کنید</i>
