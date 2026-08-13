@@ -207,8 +207,8 @@
 
 | **🗄️ Databases** | **☁️ DevOps & Cloud** | **🛠️ Tools & IDEs** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=supabase,mongodb,sqlite" height="45"/> | <img src="https://skillicons.dev/icons?i=git,github,vercel" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="45"/> | <img src="https://skillicons.dev/icons?i=vscode,postman,pycharm" height="45"/> |
-| `Supabase` • `MongoDB` • `SQLite` | `Git` • `GitHub` • `Vercel` • `Netlify` | `VS Code` • `Postman` • `PyCharm` |
+| <img src="https://skillicons.dev/icons?i=supabase,mongodb,sqlite" height="45"/> | <img src="https://skillicons.dev/icons?i=git,github,vercel" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="45"/> <img src="https://skillicons.dev/icons?i=docker" height="45"/> | <img src="https://skillicons.dev/icons?i=vscode,postman,pycharm" height="45"/> |
+| `Supabase` • `MongoDB` • `SQLite` | `Git` • `GitHub` • `Vercel` • `Netlify` • `Docker` | `VS Code` • `Postman` • `PyCharm` |
 
 <br/>
 
