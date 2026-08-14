@@ -357,6 +357,10 @@
 </table>
 <br/>
 
+<a href="https://coffeebede.com/hamiparsa">
+  <img class="img-fluid" src="/donate.png" width="400px" />
+</a>
+
 > **☕ هر قهوه = یک کامیت دیگر**
 
 ---
