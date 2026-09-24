@@ -204,6 +204,7 @@
 
 <br/>
 
+<!-- ====== GLOW DIVIDER ====== -->
 <div style="background: linear-gradient(90deg, #00E5FF, #FF6B35, #FFD700); height: 2px; border-radius: 10px; width: 50%; margin: 0 auto 15px auto;"></div>
 
 | **🧠 Languages** | **🎨 Frontend** | **⚙️ Backend** |
@@ -213,8 +214,9 @@
 
 | **🗄️ Databases** | **☁️ DevOps & Cloud** | **🛠️ Tools & IDEs** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=supabase,mongodb,sqlite" height="45"/> | <img src="https://skillicons.dev/icons?i=git,github,vercel" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="45"/> <img src="https://skillicons.dev/icons?i=docker" height="45"/> | <img src="https://skillicons.dev/icons?i=vscode,postman,pycharm" height="45"/> |
-| `Supabase` • `MongoDB` • `SQLite` | `Git` • `GitHub` • `Vercel` • `Netlify` • `Docker` | `VS Code` • `Postman` • `PyCharm` |
+| <img src="https://skillicons.dev/icons?i=mysql,supabase,mongodb,sqlite,postgresql" height="45"/> | <img src="https://skillicons.dev/icons?i=git,github,vercel" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="45"/> <img src="https://skillicons.dev/icons?i=docker" height="45"/> | <img src="https://skillicons.dev/icons?i=vscode,postman,pycharm" height="45"/> |
+| `MySql` •`Supabase` • `MongoDB` • `SQLite`• `postgresql` | `Git` • `GitHub` • `Vercel` • `Netlify` • `Docker` | `VS Code` • `Postman` • `PyCharm` |
+
 
 <br/>
 
