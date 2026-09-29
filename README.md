@@ -15,32 +15,6 @@
 
 <div align="center" dir="auto"> 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=700&color=AE2448&center=true&vCenter=true&width=700&lines=Hami+Parsa;Full-Stack+Developer;I+Build.+I+Break.+I+Improve.;Turning+Ideas+Into+Software" alt="Typing SVG" />  
-  
-  ## 📊 کارت زبان‌های گیت‌هاب
-</div>
-
-<div align="center" dir="auto">
-  <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
-    <img src="https://github-languages-card.vercel.app/api/top-languages?username=HamiParsa&theme=strawberry" width="800" alt="GitHub Languages Card" />
-  </a>
-  <br/><br/>
-  <blockquote dir="rtl">
-    <b>هر پروفایل گیت‌هابی را به یک کارت تحلیلی تمیز و قابل اشتراک‌گذاری از زبان‌ها تبدیل می‌کند.</b>
-  <br/>
-    ساخته شده برای README پروفایل‌ها، نمونه‌کارها و نمایش توانمندی‌های توسعه‌دهندگان.
-  </blockquote>
-  <br/>
-  <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
-    <img src="https://img.shields.io/github/stars/VIDAKHOSHPEY22/github-languages-card?style=for-the-badge&color=6D28D9&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github-languages-card.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
-
----
-
-
 <div align="center" dir="auto">
 
 ## 🌐 وب‌سایت‌های شخصی
@@ -335,23 +309,6 @@
 <div align="center" dir="auto">
 
 ## 💰 حمایت مالی
-
-<br/>
-<table align="center" style="border: 1px solid #00FF00;" dir="rtl">
-<tr>
-<td align="center">₿ <b>بیت‌کوین</b></td>
-<td><code>bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf</code></td>
-</tr>
-<tr>
-<td align="center">💎 <b>اتریوم</b></td>
-<td><code>0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795</code></td>
-</tr>
-<tr>
-<td align="center">🪙 <b>USDT</b></td>
-<td><code>TBC28jbxtBGytLQdVZjJmf73ULJunvTghT</code></td>
-</tr>
-</table>
-<br/>
 
 حمایت مالی (ایران)
 <br/>
